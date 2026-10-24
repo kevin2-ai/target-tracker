@@ -1,5 +1,6 @@
 {
   "name": "objectif-tracker",
+  "homepage": "https://github.com/kevin2-ai/target-tracker",
   "private": true,
   "version": "0.1.0",
   "type": "module",
